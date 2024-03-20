@@ -4,7 +4,7 @@ Client Web. Comunicatie cu REST API.
 
 Detalii implementare:
 
-Laboratorul de HTTP a fost folosit ca schelet de cod la implementarea temei.
+Laboratorul de HTTP a fost folosit ca schelet de cod la implementarea proiectului.
 Astfel, fisierele buffer.cpp, buffer.h, helpers.cpp, helpers.h, requests.cpp
 si requests.h au ramas, in mare parte, neschimbate. In plus fata de laborator,
 s-a adaugat functia compute_delete_request, care construieste o cerere de tip
